@@ -1,0 +1,9 @@
+.dropdownHead {
+  .dropdownContent {
+    visibility: hidden;
+  }
+}
+
+.dropdownHead:hover .dropdownContent {
+  visibility: visible;
+}
